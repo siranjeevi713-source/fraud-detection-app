@@ -1,0 +1,6 @@
+from_account,to_account,amount,time
+A,B,50000,10:00
+B,C,49500,10:02
+C,D,49000,10:05
+D,E,48000,10:07
+X,Y,1000,11:00
